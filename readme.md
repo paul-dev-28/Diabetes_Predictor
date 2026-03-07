@@ -192,7 +192,7 @@ Most influential features:
 
 # Project Structure
 
-    diabetes-ml-project
+    Diabetes_Predictor
     │
     ├── diabetes_prediction.ipynb
     ├── diabetes.csv
@@ -203,8 +203,8 @@ Most influential features:
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/diabetes-ml-project.git
-    cd diabetes-ml-project
+    git clone https://github.com/yourusername/Diabetes_Predictor.git
+    cd Diabetes_Predictor
 
 Install dependencies:
 
@@ -216,7 +216,7 @@ Run the notebook:
 
 Open the notebook:
 
-    diabetes_prediction.ipynb
+    Diabetes_Predictor.ipynb
 
 
 

@@ -194,7 +194,7 @@ Most influential features:
 
     Diabetes_Predictor
     │
-    ├── diabetes_prediction.ipynb
+    ├── diabetes_training.ipynb
     ├── diabetes.csv
     └── README.md
 
@@ -203,7 +203,7 @@ Most influential features:
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/Diabetes_Predictor.git
+    git clone https://github.com/paul-dev-28/Diabetes_Predictor.git
     cd Diabetes_Predictor
 
 Install dependencies:
@@ -216,7 +216,7 @@ Run the notebook:
 
 Open the notebook:
 
-    Diabetes_Predictor.ipynb
+    diabetes_training.ipynb
 
 
 
